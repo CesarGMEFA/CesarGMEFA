@@ -40,10 +40,10 @@
       <br>ReactJS
     </td>
     <td align="center" width="96">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="48" height="48" />
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" />
       </a>
-      <br>NextJS
+      <br>Tailwindcss
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -55,10 +55,10 @@
   
   <tr>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="48" height="48" />
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="48" height="48" />
       </a>
-      <br>Tailwindcss
+      <br>NextJS
     </td>
     <td align="center" width="96"> 
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
