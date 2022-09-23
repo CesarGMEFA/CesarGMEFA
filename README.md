@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a receptions dashboard](https://reception-dashboard.vercel.app/)
 
-- 🌱 I’m currently learning **in Platzi** and **Youtube** 😄
+- 🌱 I’m currently learning **in Platzi** and University
 
 - 👨‍💻 All of my projects are available at [https://knowing-guavaberry-4bb.notion.site/Portafolio-para-que-lo-lea-HolaMundo-7dc6d7a3a5cc43c6aa0d6040924bbd72](https://knowing-guavaberry-4bb.notion.site/Portafolio-para-que-lo-lea-HolaMundo-7dc6d7a3a5cc43c6aa0d6040924bbd72)
 
