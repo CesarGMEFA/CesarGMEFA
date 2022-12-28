@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, i'm César Gabriel Mejias Farreras</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-- 🔭 I’m currently working on [a receptions dashboard](https://reception-dashboard.vercel.app/)
+- 🔭 I’m currently avaible to job
 
 - 🌱 I’m currently learning **in Platzi** and University
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@cesargmefa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@cesargmefa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cesar (gabriel) mejias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar (gabriel) mejias" height="30" width="40" /></a>
 <a href="https://instagram.com/cesar.farr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cesar.farr" height="30" width="40" /></a>
 </p>
