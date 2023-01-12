@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, i'm César Gabriel Mejias Farreras</h1>
 <h3 align="center">I'm a frontend developer</h3>
 
-- 🔭 I’m currently avaible to job
 
-- 🌱 I’m currently learning **in Platzi** and University
+- 🎓 I study systems engineering at university and online education at Platzi.
 
-- 👨‍💻 Parts of my projects are available at [https://knowing-guavaberry-4bb.notion.site/Portafolio-para-que-lo-lea-HolaMundo-7dc6d7a3a5cc43c6aa0d6040924bbd72](https://knowing-guavaberry-4bb.notion.site/Portafolio-para-que-lo-lea-HolaMundo-7dc6d7a3a5cc43c6aa0d6040924bbd72)
+- 👨‍💻 See my [portfolio](https://cesargab.netlify.app/) <-- here 
 
 - 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **cesarfar376@gmail.com**
 
+<h2></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cesar (gabriel) mejias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar (gabriel) mejias" height="30" width="40" /></a>
 <a href="https://instagram.com/cesar.farr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cesar.farr" height="30" width="40" /></a>
 </p>
 
+<h2></h2>
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
@@ -86,7 +87,13 @@
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesargmefa&show_icons=true&locale=en&layout=compact" alt="cesargmefa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesargmefa&" alt="cesargmefa" /></p>
+<h2></h2>
+<p align="center">
+  <p display="block">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesargmefa&" alt="cesargmefa" />
+  </p>
+  <p display="block">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=cesargmefa&show_icons=true&locale=en&layout=compact" alt="cesargmefa" />
+  </p>
+</p>
 
